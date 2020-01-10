@@ -1,5 +1,8 @@
 data/
 dynamita.sumo/
+.ipynb_checkpoints/
 *.sumolic
 *.log
 *.pyc
+*.scs
+*.utx
