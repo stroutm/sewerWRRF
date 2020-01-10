@@ -1,0 +1,5 @@
+data/
+dynamita.sumo/
+*.sumolic
+*.log
+*.pyc
