@@ -1,0 +1,11 @@
+SumoVariable	Variable	Unit
+Sumo__Time	Time	d
+Sumo__Plant__Influent__param__Q	Influent flow	m3/d
+Sumo__Plant__Influent__param__TCOD	Influent total organic carbon	g COD/m3
+Sumo__Plant__Influent__param__TKN	Influent total Kjeldahl nitrogen	g N/m3
+Sumo__Plant__Influent__param__TP	Influent total phosphorus	g P/m3
+Sumo__Plant__Influent__param__frSPO4_TP	Influent fraction SPO4/TP	--
+Sumo__Plant__Influent__param__T	Influent temperature	C
+Sumo__Plant__Metal1__param__Femass	Iron mass flow dose	kg Fe/d
+Sumo__Plant__Primary1__param__fXTSS_sludge	Primary clarifier solids fraction removal	--
+Sumo__Plant__Primary1__param__Qsludge_target	Primary clarifier sludge flow	m3/d
